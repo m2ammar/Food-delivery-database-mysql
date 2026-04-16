@@ -41,4 +41,4 @@ The database consists of 9 tables:
 ## 📍 Context
 Built as a portfolio project during my BScs Data Science studies at KSBL, Karachi.
 
-## Muhammad Ammar
+# Muhammad Ammar
